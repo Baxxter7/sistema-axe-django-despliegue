@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/f269aed7-4e8f-4fdf-8852-2efc46f7a99b/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/sistema-axe-app",
+  "appService.deploySubpath": "."
+}
